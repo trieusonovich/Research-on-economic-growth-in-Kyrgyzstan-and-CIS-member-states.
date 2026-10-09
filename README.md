@@ -195,6 +195,3 @@ Nguyen Dinh Trieu
 Economics (Analytical Economics and Econometrics)
 
 trieu31072004@gmail.com
-
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
