@@ -183,8 +183,6 @@ R² = 0.9939; but DW = 0.35 (strong autocorrelation), White test p ≈ 0 → het
 
 - **Short time dimension.** Only 32 annual observations per country limits the power of panel unit root and cointegration tests.
 - **Mixed integration orders.** Variables are integrated of different orders (I(1) and I(2)), complicating the use of standard panel cointegration methods.
-- **No cross-sectional dependence modeling.** Although the Pesaran CD test does not reject, spatial spillovers between CIS economies may still exist.
-- **Non-normal residuals.** The normality assumption is violated, though the Central Limit Theorem provides some justification given n = 160.
 
 **Possible next steps:** apply panel ARDL (PMG) for mixed integration orders, include additional macro controls (inflation, FDI, human capital), and test for structural breaks around 2008 and 2020.
 
