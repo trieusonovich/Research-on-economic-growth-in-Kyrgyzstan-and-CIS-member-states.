@@ -20,8 +20,6 @@ An econometrics project that models economic growth in Kyrgyzstan and four other
 - [Key Results](#key-results)
 - [Panel Regression Comparison](#panel-regression-comparison)
 - [Limitations](#limitations)
-- [Getting Started](#getting-started)
-- [Tech Stack](#tech-stack)
 - [Author](#author)
 
 ---
